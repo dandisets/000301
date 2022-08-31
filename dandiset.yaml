@@ -2,6 +2,7 @@
 # It can be edited online at https://dandiarchive.org/dandiset/000301
 # and obtained from the dandiarchive.
 '@context': https://raw.githubusercontent.com/dandi/schema/master/releases/0.6.3/context.json
+about: []
 access:
 - schemaKey: AccessRequirements
   status: dandi:OpenAccess
@@ -38,9 +39,9 @@ assetsSummary:
   - Units
   - ElectrodeGroup
   - Position
-citation: Chinta, Suma (2022) Extracellular electrophysiology unit data from mouse
-  Superior Colliculus during whisker guided virtual navigation (Version draft) [Data
-  set]. DANDI archive. https://dandiarchive.org/dandiset/000301/draft
+citation: Chinta, Suma; Pluta, Scott (2022) Extracellular electrophysiology unit data
+  from mouse Superior Colliculus during whisker guided virtual navigation (Version
+  draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000301/draft
 contributor:
 - affiliation: []
   email: suma.bits@gmail.com
@@ -49,6 +50,14 @@ contributor:
   roleName:
   - dcite:ContactPerson
   schemaKey: Person
+- affiliation: []
+  email: spluta@purdue.edu
+  identifier: 0000-0002-3057-8095
+  includeInCitation: true
+  name: Pluta, Scott
+  roleName: []
+  schemaKey: Person
+  url: https://www.plutalab.com/
 dateCreated: '2022-08-30T15:42:02.261574+00:00'
 description: Spatial awareness is often intentional, arising from deliberate actions
   towards a target, while at other times it emerges from unexpected motion in the
@@ -65,16 +74,22 @@ description: Spatial awareness is often intentional, arising from deliberate act
   Thus, representations based on the timing of self-generated cues may surpass the
   spatial acuity of the whisker array. In conclusion, the SC contains complementary
   rate and temporal codes to differentiate external from self-generated tactile features.
+ethicsApproval: []
 id: DANDI:000301/draft
 identifier: DANDI:000301
+keywords: []
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/000301/versions/draft/assets/
 name: Extracellular electrophysiology unit data from mouse Superior Colliculus during
   whisker guided virtual navigation
+protocol: []
+relatedResource: []
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.3
+studyTarget: []
 url: https://dandiarchive.org/dandiset/000301/draft
 version: draft
+wasGeneratedBy: []
