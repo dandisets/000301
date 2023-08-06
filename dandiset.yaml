@@ -41,7 +41,7 @@ assetsSummary:
   - Position
 citation: Chinta, Suma; Pluta, Scott (2023) Extracellular electrophysiology unit data
   from mouse Superior Colliculus during whisker guided virtual navigation (Version
-  draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000301/draft
+  0.230806.0034) [Data set]. DANDI archive. https://doi.org/10.48324/dandi.000301/0.230806.0034
 contributor:
 - affiliation: []
   email: suma.bits@gmail.com
@@ -81,14 +81,15 @@ description: Spatial awareness is often intentional, arising from deliberate act
   Thus, representations based on the timing of self-generated cues may surpass the
   spatial acuity of the whisker array. In conclusion, the SC contains complementary
   rate and temporal codes to differentiate external from self-generated tactile features.
+doi: 10.48324/dandi.000301/0.230806.0034
 ethicsApproval: []
-id: DANDI:000301/draft
+id: DANDI:000301/0.230806.0034
 identifier: DANDI:000301
 keywords: []
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/000301/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/000301/0.230806.0034/assets.yaml
 name: Extracellular electrophysiology unit data from mouse Superior Colliculus during
   whisker guided virtual navigation
 protocol: []
@@ -109,6 +110,6 @@ repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.3
 studyTarget: []
-url: https://dandiarchive.org/dandiset/000301/draft
-version: draft
+url: https://dandiarchive.org/dandiset/000301/0.230806.0034
+version: 0.230806.0034
 wasGeneratedBy: []
